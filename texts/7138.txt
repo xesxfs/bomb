@@ -1,0 +1,7 @@
+Schiebe 10 
+--- RECORDSEPARATOR ---
+Schafe oder 
+--- RECORDSEPARATOR ---
+Gegner aus der 
+--- RECORDSEPARATOR ---
+Karte heraus.

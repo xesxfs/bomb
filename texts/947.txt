@@ -1,0 +1,7 @@
+为
+--- RECORDSEPARATOR ---
+ 50 
+--- RECORDSEPARATOR ---
+块地砖
+--- RECORDSEPARATOR ---
+着色

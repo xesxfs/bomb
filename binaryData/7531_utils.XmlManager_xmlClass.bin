@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GameMode>
+    <!-- 对危险的感知力 -->
+    <dangePerceive easy="0.9" normal="0.95" hard="1" />
+    <!-- 道具出现几率 -->
+    <propProp ARCADE_MODE="0.3" KILL_MODE="0.6" COLLECT_MODE="0.4" PAINTING_MODE="0.35"/>
+    <!-- 机器人速度 -->
+    <robotSpeed value="1.7" max="2.3" />
+    <rides car="1.5" dragon="0.8" hoover="1.2" horse="1" motocycle="1.7" />
+    	
+    
+	<KillMode personLife="3" aiLife="1" levelWinNum="10" textColNum="8" propborn="200">
+		<aiAnswerTime easy="30" normal="20" hard="10" ></aiAnswerTime>
+		<randomActionNum easy="0.6" normal="0.8" hard="1"></randomActionNum>
+		<prop>
+			<!-- 炸弹最大数 -->
+			<NumProp value="0" />
+			<!-- 炸弹威力 -->
+			<PowProp value="0" />
+			<!-- 加速 -->
+			<SpeedProp value="0" />
+			<!-- 生命 -->
+			<LifeProp value="0" />
+			<!-- 护盾 -->
+			<ShieldProp value="0" />
+			<!-- 手套 -->
+			<BombShoesProp value="0" />
+			<!-- 无敌 -->
+			<InvincibilityProp value="0.03" />
+			<!-- 镭射枪 -->
+			<LaserGunProp value="0.18" />
+			<!-- 火焰喷射器 -->
+			<FlamerProp value="0.18" />
+			<!-- 锤子 -->
+			<HammerProp value="0" />
+			<!-- 手榴弹 -->
+			<GrenadeProp value="0.12" />
+			<!-- 火箭筒 -->
+			<LauncherProp value="0.13" />
+			<!-- 飞镖 -->
+			<NinjialProp value="0.18" />
+			<!-- 强力拳头 -->
+			<BoxingProp value="0.18" />
+			<!-- 车辆 -->
+			<Vehicle value="0" />
+		</prop>
+	</KillMode>
+	
+	
+	<ArcadeMode personLife="3" aiLife="1" levelWinNum="1000" textColNum="" propborn="200">
+		<aiAnswerTime easy="35" normal="25" hard="10"></aiAnswerTime>
+		<randomActionNum easy="0.6" normal="0.8" hard="1"></randomActionNum>
+		<!-- 各道具出现几率 -->
+		<prop>
+			<!-- 炸弹最大数 -->
+			<NumProp value="0.27" />
+			<!-- 炸弹威力 -->
+			<PowProp value="0.26" />
+			<!-- 加速 -->
+			<SpeedProp value="0.2" />
+			<!-- 生命 -->
+			<LifeProp value="0.004" />
+			<!-- 护盾 -->
+			<ShieldProp value="0.003" />
+			<!-- 手套 -->
+			<BombShoesProp value="0.09" />
+			<!-- 无敌 -->
+			<InvincibilityProp value="0.008" />
+			<!-- 镭射枪 -->
+			<LaserGunProp value="0.03" />
+			<!-- 火焰喷射器 -->
+			<FlamerProp value="0.03" />
+			<!-- 锤子 -->
+			<HammerProp value="0.02" />
+			<!-- 手榴弹 -->
+			<GrenadeProp value="0" />
+			<!-- 火箭筒 -->
+			<LauncherProp value="0" />
+			<!-- 飞镖 -->
+			<NinjialProp value="0.03" />
+			<!-- 强力拳头 -->
+			<BoxingProp value="0.03" />
+			<!-- 车辆 -->
+			<Vehicle value="0.025" />
+		</prop>
+	</ArcadeMode>
+	
+	
+	<WaterMode personLife="3" aiLife="1" levelWinNum="10" textColNum="8" propborn="400">
+		<aiAnswerTime easy="30" normal="18" hard="12"></aiAnswerTime>
+		<randomActionNum easy="0.2" normal="0.7" hard="1"></randomActionNum>
+	</WaterMode>
+	<SpeedMode personLife="3" aiLife="1" levelWinNum="13" textColNum="10" propborn="30">
+		<aiAnswerTime easy="7" normal="5" hard="3"></aiAnswerTime>
+		<carSpeed>
+			<player easy="1" normal="1" hard="1"/>
+			<ai easy="1" normal="1.05" hard="1.06"/>
+		</carSpeed>
+		<pauseTime easy="30" normal="30" hard="25"></pauseTime>
+		<randomActionNum easy="0.5" normal="0.7" hard="1"></randomActionNum>
+	</SpeedMode>
+	
+	
+	<CollectMode personLife="3" aiLife="1" levelWinNum="10" textColNum="8" propborn="30">
+		<aiAnswerTime easy="30" normal="20" hard="10"></aiAnswerTime>
+		<randomActionNum easy="0.6" normal="0.8" hard="1"></randomActionNum>
+		<!-- 每隔time秒生成num个金币 -->
+		<coinsGenerate time="15" num="4" />
+		<!-- AI对金币的执着度 -->
+		<coinsGet easy="0.6" normal="0.8" hard="1" />
+		<!-- 各道具出现几率 -->
+		<prop>
+			<!-- 炸弹最大数 -->
+			<NumProp value="0.18" />
+			<!-- 炸弹威力 -->
+			<PowProp value="0.18" />
+			<!-- 加速 -->
+			<SpeedProp value="0.14" />
+			<!-- 生命 -->
+			<LifeProp value="0" />
+			<!-- 护盾 -->
+			<ShieldProp value="0" />
+			<!-- 手套 -->
+			<BombShoesProp value="0.07" />
+			<!-- 无敌 -->
+			<InvincibilityProp value="0.03" />
+			<!-- 镭射枪 -->
+			<LaserGunProp value="0.07" />
+			<!-- 火焰喷射器 -->
+			<FlamerProp value="0.07" />
+			<!-- 锤子 -->
+			<HammerProp value="0.03" />
+			<!-- 手榴弹 -->
+			<GrenadeProp value="0.03" />
+			<!-- 火箭筒 -->
+			<LauncherProp value="0.03" />
+			<!-- 飞镖 -->
+			<NinjialProp value="0.06" />
+			<!-- 强力拳头 -->
+			<BoxingProp value="0.06" />
+			<!-- 车辆 -->
+			<Vehicle value="0.05" />
+		</prop>
+	</CollectMode>
+	
+	
+	<PaintingMode personLife="3" aiLife="1" levelWinNum="50" textColNum="40" propborn="200">
+		<aiAnswerTime easy="30" normal="20" hard="10"></aiAnswerTime>
+		<randomActionNum easy="0.6" normal="0.8" hard="1"></randomActionNum>
+		<!-- 各道具出现几率 -->
+		<prop>
+			<!-- 炸弹最大数 -->
+			<NumProp value="0.18" />
+			<!-- 炸弹威力 -->
+			<PowProp value="0.17" />
+			<!-- 加速 -->
+			<SpeedProp value="0.12" />
+			<!-- 生命 -->
+			<LifeProp value="0" />
+			<!-- 护盾 -->
+			<ShieldProp value="0" />
+			<!-- 手套 -->
+			<BombShoesProp value="0.05" />
+			<!-- 无敌 -->
+			<InvincibilityProp value="0.05" />
+			<!-- 镭射枪 -->
+			<LaserGunProp value="0.06" />
+			<!-- 火焰喷射器 -->
+			<FlamerProp value="0.06" />
+			<!-- 锤子 -->
+			<HammerProp value="0.04" />
+			<!-- 手榴弹 -->
+			<GrenadeProp value="0.04" />
+			<!-- 火箭筒 -->
+			<LauncherProp value="0.04" />
+			<!-- 飞镖 -->
+			<NinjialProp value="0.06" />
+			<!-- 强力拳头 -->
+			<BoxingProp value="0.06" />
+			<!-- 车辆 -->
+			<Vehicle value="0.07" />
+		</prop>
+	</PaintingMode>
+</GameMode>

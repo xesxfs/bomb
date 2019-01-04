@@ -1,0 +1,3 @@
+Destroy all 
+--- RECORDSEPARATOR ---
+enemies.

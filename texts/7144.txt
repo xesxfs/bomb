@@ -1,0 +1,5 @@
+Zepchnij z 
+--- RECORDSEPARATOR ---
+mapy 10 owiec 
+--- RECORDSEPARATOR ---
+lub wrogów.

@@ -1,0 +1,3 @@
+Sê o primeiro a recolher 10 
+--- RECORDSEPARATOR ---
+moedas!

@@ -1,0 +1,7 @@
+誰よりも先にタイル
+--- RECORDSEPARATOR ---
+50
+--- RECORDSEPARATOR ---
+枚に色を塗ろう
+--- RECORDSEPARATOR ---
+!

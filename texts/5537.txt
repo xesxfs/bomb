@@ -1,0 +1,11 @@
+Первым
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+собери
+--- RECORDSEPARATOR ---
+ 10 
+--- RECORDSEPARATOR ---
+монет
+--- RECORDSEPARATOR ---
+!

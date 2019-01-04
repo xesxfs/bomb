@@ -1,0 +1,11 @@
+Первым
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+раскрась
+--- RECORDSEPARATOR ---
+ 50 
+--- RECORDSEPARATOR ---
+клеток
+--- RECORDSEPARATOR ---
+!

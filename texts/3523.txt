@@ -1,0 +1,5 @@
+ОБЩИЙ
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+СЧЕТ

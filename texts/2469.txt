@@ -1,0 +1,3 @@
+Veste aqui as tuas 
+--- RECORDSEPARATOR ---
+personagens!

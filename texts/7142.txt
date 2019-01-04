@@ -1,0 +1,7 @@
+Spingi dalla 
+--- RECORDSEPARATOR ---
+mappa 10 
+--- RECORDSEPARATOR ---
+pecore o 
+--- RECORDSEPARATOR ---
+nemici.

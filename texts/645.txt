@@ -1,0 +1,3 @@
+Mata a 10 
+--- RECORDSEPARATOR ---
+enemigos.

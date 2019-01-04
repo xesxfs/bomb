@@ -1,0 +1,7 @@
+Empurrar 10 
+--- RECORDSEPARATOR ---
+ovelhas ou 
+--- RECORDSEPARATOR ---
+inimigos para 
+--- RECORDSEPARATOR ---
+fora do mapa.

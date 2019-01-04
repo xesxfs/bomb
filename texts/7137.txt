@@ -1,0 +1,7 @@
+Pousse 10 
+--- RECORDSEPARATOR ---
+moutons ou 
+--- RECORDSEPARATOR ---
+ennemis hors 
+--- RECORDSEPARATOR ---
+de la carte.

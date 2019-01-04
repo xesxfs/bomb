@@ -1,0 +1,3 @@
+Haz clic en un botón de control 
+--- RECORDSEPARATOR ---
+para cambiarlo.

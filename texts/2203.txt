@@ -1,0 +1,3 @@
+Değiştirmek için bir kontrol 
+--- RECORDSEPARATOR ---
+düğmesine tıkla.

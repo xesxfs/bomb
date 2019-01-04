@@ -1,0 +1,3 @@
+Clique sur un bouton de commande 
+--- RECORDSEPARATOR ---
+pour le modifier.

@@ -1,0 +1,3 @@
+Abate todos 
+--- RECORDSEPARATOR ---
+os inimigos.

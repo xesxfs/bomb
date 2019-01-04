@@ -1,0 +1,3 @@
+Klicke auf eine Steuerungstaste, 
+--- RECORDSEPARATOR ---
+um sie zu ändern.

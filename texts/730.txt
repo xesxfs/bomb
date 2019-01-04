@@ -1,0 +1,5 @@
+敵を
+--- RECORDSEPARATOR ---
+10
+--- RECORDSEPARATOR ---
+人倒す

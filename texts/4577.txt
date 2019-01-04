@@ -1,0 +1,3 @@
+Cette touche ne peut pas être utilisée. Choisis-en une 
+--- RECORDSEPARATOR ---
+autre.

@@ -1,0 +1,5 @@
+タイルを
+--- RECORDSEPARATOR ---
+50
+--- RECORDSEPARATOR ---
+枚塗る

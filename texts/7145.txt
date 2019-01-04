@@ -1,0 +1,5 @@
+Вытолкни с 
+--- RECORDSEPARATOR ---
+карты 10 овец 
+--- RECORDSEPARATOR ---
+или врагов.

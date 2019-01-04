@@ -1,0 +1,7 @@
+Empuja a 10 
+--- RECORDSEPARATOR ---
+ovejas o 
+--- RECORDSEPARATOR ---
+enemigos fuera 
+--- RECORDSEPARATOR ---
+del mapa.

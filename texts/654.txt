@@ -1,0 +1,5 @@
+消灭
+--- RECORDSEPARATOR ---
+ 10 
+--- RECORDSEPARATOR ---
+个敌人。

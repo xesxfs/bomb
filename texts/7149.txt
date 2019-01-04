@@ -1,0 +1,13 @@
+羊
+--- RECORDSEPARATOR ---
+10
+--- RECORDSEPARATOR ---
+匹及び敵
+--- RECORDSEPARATOR ---
+10
+--- RECORDSEPARATOR ---
+人
+--- RECORDSEPARATOR ---
+をマップ外に押し
+--- RECORDSEPARATOR ---
+出す。

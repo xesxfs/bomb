@@ -1,0 +1,7 @@
+Empurra 10 
+--- RECORDSEPARATOR ---
+ovelhas para 
+--- RECORDSEPARATOR ---
+fora do mapa 
+--- RECORDSEPARATOR ---
+de jogo.

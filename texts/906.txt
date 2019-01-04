@@ -1,0 +1,5 @@
+コインを
+--- RECORDSEPARATOR ---
+10
+--- RECORDSEPARATOR ---
+枚集める

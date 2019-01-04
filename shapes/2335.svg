@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="108.4px" width="77.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -133.4, 98.45)">
+    <path d="M151.65 -96.15 L151.0 -96.45 M199.95 5.4 L199.6 5.15" fill="none" stroke="#4c0e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.0"/>
+    <path d="M151.0 -96.45 L148.6 -90.2 146.75 -85.05 146.55 -84.55 145.7 -82.15 Q108.45 25.8 199.6 5.15" fill="none" stroke="#4c0e62" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0"/>
+    <path d="M209.95 -59.1 Q173.3 -68.4 150.05 -91.2 L152.6 -97.5 152.95 -97.35 Q183.2 -69.6 207.95 -69.1 L208.6 -69.1 208.6 -69.3 209.2 -69.2 209.95 -59.1" fill="#e7a8ff" fill-rule="evenodd" stroke="none"/>
+    <path d="M209.95 -59.1 Q210.95 -40.4 209.65 -23.1 L209.3 -23.1 Q208.7 -7.2 201.3 4.2 L200.9 3.95 Q109.75 24.6 147.0 -83.3 L147.85 -85.75 148.05 -86.25 149.9 -91.4 152.3 -97.65 152.6 -97.5 150.05 -91.2 Q173.3 -68.4 209.95 -59.1" fill="#f6e0ff" fill-rule="evenodd" stroke="none"/>
+    <path d="M147.4 -86.1 L147.45 -86.0 147.35 -85.95 147.35 -86.1 147.4 -86.1" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+  </g>
+</svg>

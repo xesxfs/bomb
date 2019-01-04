@@ -1,0 +1,11 @@
+占位格
+--- RECORDSEPARATOR ---
+(
+--- RECORDSEPARATOR ---
+用于大面
+--- RECORDSEPARATOR ---
+积
+--- RECORDSEPARATOR ---
+物体
+--- RECORDSEPARATOR ---
+)

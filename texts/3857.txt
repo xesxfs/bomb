@@ -1,0 +1,5 @@
+先に
+--- RECORDSEPARATOR ---
+3
+--- RECORDSEPARATOR ---
+ラップを完了！

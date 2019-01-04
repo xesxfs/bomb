@@ -1,0 +1,7 @@
+搜集
+--- RECORDSEPARATOR ---
+ 10 
+--- RECORDSEPARATOR ---
+个
+--- RECORDSEPARATOR ---
+硬币

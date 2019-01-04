@@ -1,0 +1,11 @@
+Первым
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+убей
+--- RECORDSEPARATOR ---
+ 10 
+--- RECORDSEPARATOR ---
+врагов
+--- RECORDSEPARATOR ---
+!

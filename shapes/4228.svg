@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="31.0px" width="31.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.9, 0.8)">
+    <pattern height="31" id="PatternID_4228_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, -0.9, -0.8)" patternUnits="userSpaceOnUse" viewBox="0 0 31 31" width="31">
+      <image height="31" width="31" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAB6klEQVR42r2Xa07CQBDHewONPCyQEtDwfrS00JbyEqmGSBQ9kUfhCByBI3AEjsARVqZJk7rus6WSTPiyO7//TmdmZxXl8suq5e+sqh3ypeqpUK6htKxYqR9yxcr+NlfSgatk8tr2XntE1eYAdaw5MrwXNFxsUjNzukZ91z8/WNaNklG1U61no7Y5RfbyA7n+17/Y8GmzU7KFMmoaXnDiOE7s5y0yZ+tYe5nwweSVC26ZHqr3R9y1UvCuvQicwj9tc2c4C9aEJiuACAcnUackAaE43Kz5W3w4Dg7N8HxiuHFr6HaQ1bHgsBEckBxHwwoCmoabSAAx7JC9JKe4AJZQEQHUhKOF/5oCuKUmKoC2jiWA22RoWY0LYAmlCRDqcCwBUacsAVAdkKTScJYA/FRQkqIChOEytc2KVFSA1MUC3YvmtG1NfwmlVQCYPl7JwUfLd6rD6GlYEcJbtRCcF/Lod4QIiERHCJ7GtxaG006SFMyFi5ZXHLDQMMG7s+OCqXAohbRaaqxh4tpgIpzWSPBBIsk9LhX26AjFOrkMmJlwYYmxpldcpMzwGMDvVG0PcN31/zSXnrPkOgizXXZsdlafZwUebfWec24NJlIhS/JicS57LmJ3wWOxZth6wxgfIQLd0SJ1a1uzPTwUfwCVxzDEPUdiGwAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <path d="M-0.9 -0.8 L30.1 -0.8 30.1 30.2 -0.9 30.2 -0.9 -0.8" style="fill:url(#PatternID_4228_1)"/>
+    <pattern height="24" id="PatternID_4228_2" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 3.85, 3.45)" patternUnits="userSpaceOnUse" viewBox="0 0 24 24" width="24">
+      <image height="24" width="24" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABFElEQVR42uWW0Q2CMBBA2YARHIERHMERGMEvYQxHIBE+pH44AiMwAiP0CxJ/evYKxAoH9hqiH5I0lxD6Hj3uWoKAcQmAMG8hw8iZF6RXiJJSNRjX4aouOgCMzpIBLlM9w8QFSdGqCuHjcJZoaIXwcSxJLg+IbIGzRENDkx4HSd5B7Cex0vR9iZhPxEqaSyBz+uC2wEiEqjeVJCXErpJpZW0usXuDny4BR4ak8VuJgMxFgj2iJZItIVNFlC9Vukag7/8GTpYrAfdKDdVwveD9jf4NTuyoFHyoecna7Ay8r20XeM3eSU8lnKdw7OJN4FZ65KtT6Vzqur57HZlmFULt1+DEoS/xY/P+LG5w+PSMhu9wY+PAnxhmmTwG03UpAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M3.85 3.45 L27.85 3.45 27.85 27.45 3.85 27.45 3.85 3.45" style="fill:url(#PatternID_4228_2)"/>
+  </g>
+</svg>

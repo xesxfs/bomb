@@ -1,0 +1,3 @@
+FÄRBE 50 
+--- RECORDSEPARATOR ---
+FELDER.

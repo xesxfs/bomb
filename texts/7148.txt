@@ -1,0 +1,5 @@
+Push 10 sheep or 
+--- RECORDSEPARATOR ---
+enemies off the 
+--- RECORDSEPARATOR ---
+map.

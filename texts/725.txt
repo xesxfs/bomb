@@ -1,0 +1,3 @@
+ZABIJ 10 
+--- RECORDSEPARATOR ---
+WROGÓW.

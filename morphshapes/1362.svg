@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="45.6px" width="51.25px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -4.6, -0.05)">
+    <path d="M7.1 14.75 L7.55 14.6 Q9.2 13.8 9.75 11.6 L10.25 6.5 Q11.45 4.1 13.9 3.15 L17.7 2.55 Q26.1 2.5 28.8 8.75 L29.55 10.95 Q30.75 15.4 30.0 21.75 29.45 26.0 30.9 28.95 L31.95 30.75 Q33.3 32.5 35.5 34.25 36.75 35.25 38.5 35.9 L41.25 36.75 44.0 37.5 45.85 37.8 Q46.3 37.75 46.0 37.5" fill="none" stroke="url(#gradient0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0">
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="5.0;5.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M7.1 14.75 L7.55 14.6 Q9.2 13.8 9.75 11.6 L10.25 6.5 Q11.45 4.1 13.9 3.15 L17.7 2.55 Q26.1 2.5 28.8 8.75 L29.55 10.95 Q30.75 15.4 30.0 21.75 29.45 26.0 30.9 28.95 L31.95 30.75 Q33.3 32.5 35.5 34.25 36.75 35.25 38.5 35.9 L41.25 36.75 44.0 37.5 45.85 37.8 Q46.3 37.75 46.0 37.5;M27.0 25.75 L27.25 25.8 Q28.1 25.95 29.0 26.15 L31.1 26.65 Q32.2 27.0 33.35 27.4 L34.85 28.0 Q37.8 29.35 40.6 31.15 L41.5 31.75 Q43.5 33.3 45.5 34.9 46.7 36.1 47.9 37.35 L48.55 38.05 Q49.3 38.85 50.1 39.7 50.6 40.25 51.1 40.8 L51.9 41.7 52.75 42.55 53.35 43.15 Q53.35 43.15 53.35 43.15"/>
+    </path>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.028, 0.0, 0.0, 0.0246, 25.65, 20.15)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <animateTransform additive="replace" attributeName="gradientTransform" dur="2s" from="1" repeatCount="indefinite" to="1" type="scale"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="25.65 20.15" repeatCount="indefinite" to="40.15 34.45" type="translate"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0" repeatCount="indefinite" to="0.0" type="rotate"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.028 0.0246" repeatCount="indefinite" to="0.0191 0.0137" type="scale"/>
+      <animateTransform additive="sum" attributeName="gradientTransform" dur="2s" from="0.0" repeatCount="indefinite" to="0.0" type="skewX"/>
+      <stop offset="0.0" stop-color="#135454" stop-opacity="0.9882353">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#135454;#135455"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="0.9882353;0.9882353"/>
+      </stop>
+      <stop offset="1.0" stop-color="#0d2c14">
+        <animate attributeName="offset" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+        <animate attributeName="stop-color" dur="2s" repeatCount="indefinite" values="#0d2c14;#0d2c15"/>
+        <animate attributeName="stop-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      </stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,13 @@
+将
+--- RECORDSEPARATOR ---
+ 10 
+--- RECORDSEPARATOR ---
+只绵羊
+--- RECORDSEPARATOR ---
+或
+--- RECORDSEPARATOR ---
+ 10 
+--- RECORDSEPARATOR ---
+个敌人
+--- RECORDSEPARATOR ---
+推出地图外。

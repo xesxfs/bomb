@@ -1,0 +1,5 @@
+Saca 10 ovejas 
+--- RECORDSEPARATOR ---
+o enemigos 
+--- RECORDSEPARATOR ---
+fuera del mapa.

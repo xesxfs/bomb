@@ -1,0 +1,3 @@
+PINTA 50 
+--- RECORDSEPARATOR ---
+PEÇAS.
